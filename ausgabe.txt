@@ -6,104 +6,134 @@ Anzahl der Durchlaeufe:100
 Erzeuge 100 Suchbaeume mit je 10 Knoten
 
 Hoehe Suchbaum 1: 6
-Hoehe Suchbaum 2: 4
-Hoehe Suchbaum 3: 4
-Hoehe Suchbaum 4: 5
-Hoehe Suchbaum 5: 6
-Hoehe Suchbaum 6: 5
-Hoehe Suchbaum 7: 6
-Hoehe Suchbaum 8: 5
-Hoehe Suchbaum 9: 5
-Hoehe Suchbaum 10: 7
-Hoehe Suchbaum 11: 5
+Hoehe Suchbaum 2: 6
+Hoehe Suchbaum 3: 7
+Hoehe Suchbaum 4: 6
+Hoehe Suchbaum 5: 5
+Hoehe Suchbaum 6: 6
+Hoehe Suchbaum 7: 5
+Hoehe Suchbaum 8: 7
+Hoehe Suchbaum 9: 4
+Hoehe Suchbaum 10: 4
+Hoehe Suchbaum 11: 6
 Hoehe Suchbaum 12: 6
-Hoehe Suchbaum 13: 6
-Hoehe Suchbaum 14: 5
-Hoehe Suchbaum 15: 6
+Hoehe Suchbaum 13: 5
+Hoehe Suchbaum 14: 4
+Hoehe Suchbaum 15: 7
 Hoehe Suchbaum 16: 5
 Hoehe Suchbaum 17: 5
-Hoehe Suchbaum 18: 6
+Hoehe Suchbaum 18: 5
 Hoehe Suchbaum 19: 6
-Hoehe Suchbaum 20: 6
-Hoehe Suchbaum 21: 4
-Hoehe Suchbaum 22: 7
-Hoehe Suchbaum 23: 6
-Hoehe Suchbaum 24: 7
-Hoehe Suchbaum 25: 6
+Hoehe Suchbaum 20: 7
+Hoehe Suchbaum 21: 5
+Hoehe Suchbaum 22: 8
+Hoehe Suchbaum 23: 5
+Hoehe Suchbaum 24: 5
+Hoehe Suchbaum 25: 5
 Hoehe Suchbaum 26: 5
-Hoehe Suchbaum 27: 5
-Hoehe Suchbaum 28: 8
-Hoehe Suchbaum 29: 6
-Hoehe Suchbaum 30: 4
+Hoehe Suchbaum 27: 7
+Hoehe Suchbaum 28: 5
+Hoehe Suchbaum 29: 4
+Hoehe Suchbaum 30: 5
 Hoehe Suchbaum 31: 6
-Hoehe Suchbaum 32: 6
+Hoehe Suchbaum 32: 5
 Hoehe Suchbaum 33: 5
 Hoehe Suchbaum 34: 5
-Hoehe Suchbaum 35: 5
+Hoehe Suchbaum 35: 6
 Hoehe Suchbaum 36: 7
 Hoehe Suchbaum 37: 5
-Hoehe Suchbaum 38: 6
-Hoehe Suchbaum 39: 4
-Hoehe Suchbaum 40: 7
+Hoehe Suchbaum 38: 5
+Hoehe Suchbaum 39: 5
+Hoehe Suchbaum 40: 6
 Hoehe Suchbaum 41: 5
-Hoehe Suchbaum 42: 5
-Hoehe Suchbaum 43: 4
-Hoehe Suchbaum 44: 6
-Hoehe Suchbaum 45: 5
-Hoehe Suchbaum 46: 5
-Hoehe Suchbaum 47: 7
-Hoehe Suchbaum 48: 6
-Hoehe Suchbaum 49: 6
+Hoehe Suchbaum 42: 6
+Hoehe Suchbaum 43: 7
+Hoehe Suchbaum 44: 7
+Hoehe Suchbaum 45: 6
+Hoehe Suchbaum 46: 6
+Hoehe Suchbaum 47: 5
+Hoehe Suchbaum 48: 5
+Hoehe Suchbaum 49: 5
 Hoehe Suchbaum 50: 6
-Hoehe Suchbaum 51: 6
-Hoehe Suchbaum 52: 7
-Hoehe Suchbaum 53: 6
-Hoehe Suchbaum 54: 5
+Hoehe Suchbaum 51: 5
+Hoehe Suchbaum 52: 6
+Hoehe Suchbaum 53: 7
+Hoehe Suchbaum 54: 7
 Hoehe Suchbaum 55: 5
 Hoehe Suchbaum 56: 6
 Hoehe Suchbaum 57: 7
-Hoehe Suchbaum 58: 4
-Hoehe Suchbaum 59: 7
-Hoehe Suchbaum 60: 5
-Hoehe Suchbaum 61: 6
+Hoehe Suchbaum 58: 7
+Hoehe Suchbaum 59: 5
+Hoehe Suchbaum 60: 7
+Hoehe Suchbaum 61: 7
 Hoehe Suchbaum 62: 5
-Hoehe Suchbaum 63: 6
-Hoehe Suchbaum 64: 5
-Hoehe Suchbaum 65: 4
-Hoehe Suchbaum 66: 7
-Hoehe Suchbaum 67: 6
-Hoehe Suchbaum 68: 6
-Hoehe Suchbaum 69: 5
-Hoehe Suchbaum 70: 6
+Hoehe Suchbaum 63: 7
+Hoehe Suchbaum 64: 6
+Hoehe Suchbaum 65: 5
+Hoehe Suchbaum 66: 6
+Hoehe Suchbaum 67: 5
+Hoehe Suchbaum 68: 7
+Hoehe Suchbaum 69: 8
+Hoehe Suchbaum 70: 5
 Hoehe Suchbaum 71: 5
-Hoehe Suchbaum 72: 7
-Hoehe Suchbaum 73: 5
-Hoehe Suchbaum 74: 5
+Hoehe Suchbaum 72: 6
+Hoehe Suchbaum 73: 6
+Hoehe Suchbaum 74: 6
 Hoehe Suchbaum 75: 6
-Hoehe Suchbaum 76: 5
-Hoehe Suchbaum 77: 5
-Hoehe Suchbaum 78: 8
-Hoehe Suchbaum 79: 5
-Hoehe Suchbaum 80: 6
-Hoehe Suchbaum 81: 7
+Hoehe Suchbaum 76: 7
+Hoehe Suchbaum 77: 4
+Hoehe Suchbaum 78: 5
+Hoehe Suchbaum 79: 6
+Hoehe Suchbaum 80: 7
+Hoehe Suchbaum 81: 6
 Hoehe Suchbaum 82: 6
-Hoehe Suchbaum 83: 5
-Hoehe Suchbaum 84: 6
+Hoehe Suchbaum 83: 6
+Hoehe Suchbaum 84: 5
 Hoehe Suchbaum 85: 5
-Hoehe Suchbaum 86: 5
-Hoehe Suchbaum 87: 6
-Hoehe Suchbaum 88: 5
+Hoehe Suchbaum 86: 7
+Hoehe Suchbaum 87: 5
+Hoehe Suchbaum 88: 6
 Hoehe Suchbaum 89: 6
-Hoehe Suchbaum 90: 7
-Hoehe Suchbaum 91: 5
+Hoehe Suchbaum 90: 5
+Hoehe Suchbaum 91: 6
 Hoehe Suchbaum 92: 6
 Hoehe Suchbaum 93: 6
-Hoehe Suchbaum 94: 6
-Hoehe Suchbaum 95: 5
-Hoehe Suchbaum 96: 6
+Hoehe Suchbaum 94: 4
+Hoehe Suchbaum 95: 7
+Hoehe Suchbaum 96: 5
 Hoehe Suchbaum 97: 5
-Hoehe Suchbaum 98: 4
+Hoehe Suchbaum 98: 6
 Hoehe Suchbaum 99: 6
-Hoehe Suchbaum 100: 5
+Hoehe Suchbaum 100: 7
 
-Durchschnittliche Hoehe: 5.61 (entspricht 1.69 * log2 n)
+Durchschnittliche Hoehe: 5.75 (entspricht 2 * log2 n)
+
+--- Teste TreeTools-Funktionen ---
+Aus wie vielen Elementen besteht der Baum?9
+
+Bitte gebe Sie 9 Zahlen ein:
+100
+
+8
+
+96
+
+446
+
+31
+
+69
+
+78
+
+3
+
+241
+
+Baumhoehe: 6
+Anzahl Knoten: 9
+Inorder mit Klammern: (( 3  8 (( 31 ( 69  78 )) 96 )) 100 ( 241  446 ))
+Levelorder: 100 8 446 3 96 241 31 69 78
+Sortiere {6,1,9,4,2,8,3}
+9 8 6 4 3 2 1
+--- Ende der Tests ---
