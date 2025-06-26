@@ -25,7 +25,10 @@ void TreeToolsTest::run() {
     std::cin >> runs;
 
     std::vector<int> basis(n);
-    for (int i = 0; i < n; ++i) basis[i] = i + 1;
+    for (int i = 0; i < n; ++i)
+    {
+        basis[i] = i + 1;
+    }
 
     std::default_random_engine rng(static_cast<unsigned>(std::time(nullptr)));
     double sumHeight = 0.0;
@@ -43,5 +46,49 @@ void TreeToolsTest::run() {
 
     double avg = sumHeight / runs;
     double c = avg / (std::log2(n));
-    std::cout << "\nDurchschnittliche Hoehe: " << avg << " (entspricht " << std::round(c * 100) / 100 << " * log2 n)\n";
+    std::cout << "\nDurchschnittliche Hoehe: " << avg << " (entspricht " << std::round(c) << " * log2 n)\n";
 }
+
+void TreeToolsTest::testAllFeatures() {
+    std::cout << "\n--- Teste TreeTools-Funktionen ---\n";
+
+    TreeTools tester;
+
+    Tree* root = buildSearchTree(numberInput());
+
+    std::cout << "Baumhoehe: " << tester.treeHeight(root) << "\n";
+    std::cout << "Anzahl Knoten: " << tester.anzahlKnoten(root) << "\n";
+
+    std::cout << "Inorder mit Klammern: ";
+    tester.printTreeInorderWithParenthesis(root);
+    std::cout << "\n";
+
+    std::cout << "Levelorder: ";
+    tester.printTreeLevelorder(root);
+
+    std::vector<int> unsortiert = {6,1,9,4,2,8,3};
+    std::vector<int> sortiert = tester.searchTreeSort(unsortiert);
+
+    std::cout << "Sortiere {6,1,9,4,2,8,3}" << std::endl;
+    for (int x : sortiert) std::cout << x << " ";
+    std::cout << "\n";
+
+    std::cout << "--- Ende der Tests ---\n";
+}
+
+std::vector<int> TreeToolsTest::numberInput()
+{
+    int n;
+    std::cout << "Aus wie vielen Elementen besteht der Baum? ";
+    std::cin >> n;
+
+    std::vector<int> zahlen(n);
+    std::cout << "Bitte geben Sie " << n << " Zahlen ein:\n";
+
+    for (int i = 0; i < n; ++i) {
+        std::cin >> zahlen[i];
+    }
+
+    return zahlen;
+}
+
